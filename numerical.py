@@ -6,3 +6,6 @@ def squarepluscubed(x):
 
 def is_palindrome(x):
     return x == x[::-1]
+
+def plus_one(x):
+    return x + 1
